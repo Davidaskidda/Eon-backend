@@ -1,3 +1,3 @@
 Eon backend
 
-W gameserver made by David/ChatGPT
+W backend made by David/ChatGPT
